@@ -42,6 +42,6 @@ details, incident specifics, claim amounts, and fraud reports.
 
 ## Workflow
 
-<img src="/workflow/datasoc-workflow.png.JPG" alt="Home Page Pictures">
+<img src="/workflow/datasoc-workflow.png" alt="Workflow diagram">
 
   
