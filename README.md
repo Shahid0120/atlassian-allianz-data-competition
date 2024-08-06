@@ -58,6 +58,6 @@ details, incident specifics, claim amounts, and fraud reports.
 
 <img src="/pictures/pic1.JPG" alt="Home Page Pictures">
 
-<img src="/pictures/pic6.jpg" alt="Home Page Pictures", width="400" , height="200">
+<img src="/pictures/pic6.jpg" alt="Home Page Pictures" width="400" height="200">
 
 <img src="/pictures/pic3.jpg" alt="Home Page Pictures">
