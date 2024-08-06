@@ -44,4 +44,11 @@ details, incident specifics, claim amounts, and fraud reports.
 
 <img src="/workflow/datasoc-workflow.png" alt="Workflow diagram">
 
+## Project Overview 
 
+1. Data Collection and Cleaning: We started by gathering the provided insurance data and performed initial cleaning to handle missing values and inconsistencies.
+2. Exploratory Data Analysis (EDA): We conducted a thorough EDA to understand the data distribution, identify patterns, and detect any anomalies.
+2. Feature Engineering: We created new features to improve the predictive power of our models. This included deriving features related to customer behavior and claim history.
+3. Model Selection and Training: We experimented with various machine learning models such as LightGBM, Random Forest, and Catboost. We used cross-validation to tune hyperparameters and select the best model.
+4. Evaluation and Validation: We validated our model using a separate validation set to ensure it generalized well to unseen data. We also used different metrics to evaluate performance.
+5. Presentation: Finally, we prepared and delivered a presentation to the data science teams at Allianz and Atlassian, showcasing our methodology, results, and the impact of our solution.
