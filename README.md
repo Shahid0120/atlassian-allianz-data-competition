@@ -52,3 +52,11 @@ details, incident specifics, claim amounts, and fraud reports.
 3. Model Selection and Training: We experimented with various machine learning models such as LightGBM, Random Forest, and Catboost. We used cross-validation to tune hyperparameters and select the best model.
 4. Evaluation and Validation: We validated our model using a separate validation set to ensure it generalized well to unseen data. We also used different metrics to evaluate performance.
 5. Presentation: Finally, we prepared and delivered a presentation to the data science teams at Allianz and Atlassian, showcasing our methodology, results, and the impact of our solution.
+
+
+## Few more Pictures!
+
+<img src="/pictures/pic1.JPG" alt="Home Page Pictures">
+<img src="/pictures/pic6.JPG" alt="Home Page Pictures">
+<img src="/pictures/pic5.JPG" alt="Home Page Pictures">
+<img src="/pictures/pic3.JPG" alt="Home Page Pictures">
