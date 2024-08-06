@@ -12,7 +12,7 @@ Had the pleasure to work along side my friends [Keith Tang](https://www.linkedin
 
 ## Task Objectives and Overview
 
-*Insurance company ABC has been experiencing a surge in fraudulent claims, resulting in significant
+Insurance company ABC has been experiencing a surge in fraudulent claims, resulting in significant
 financial losses. To address this issue, they have approached you, a team of Data Scientists, to help
 identify key areas where fraudulent claims are most likely to occur and to develop a solution to
 mitigate these financial losses.
@@ -22,7 +22,7 @@ you to evaluate these ethical aspects and propose strategies to mitigate potenti
 solution.
 
 You will be presenting your findings and proposed solution to ABC’s stakeholder, a semi-technical
-marketing manager.*
+marketing manager.
 
 ## Dataset Overview 
 
@@ -31,6 +31,7 @@ about insurance claims. The dataset includes various features such as customer d
 details, incident specifics, claim amounts, and fraud reports.
 
 ## Marking Rubric
+
 - *Data Analysis*: Examines the ability to explore and communicate key patterns, trends, and anomalies in the dataset. High-quality data visualization and clear interpretation of the data are crucial.
 - *Model Development / Solution development*: Assesses the technical proficiency and effectiveness of the proposed solution. A solution does not have to be a model: it can be a set of ideas on how to solve the given problem.
 - *Ethical Considerations* - Evaluates awareness and handling of ethical issues related to analysis and solutions. The goal is to create solutions that are not only effective but also ethically sound.
@@ -38,3 +39,7 @@ details, incident specifics, claim amounts, and fraud reports.
 - *Innovation and Creativity*
 - *Clarity & Organisation of Presentation / Engaging & Persuasive Delivery*
 - *Effective Use of Visuals & Supportive Materials*
+
+## Workflow
+
+  
