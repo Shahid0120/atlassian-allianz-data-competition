@@ -4,7 +4,9 @@
 
 I've had the privilege to compete in the UNSW Atlassian Allianz Data Competition at their respective headquarters! This 3-day event required my team to classify fraudulent customers from insurance data collected by Allianz customers.
 
-Luckily, we made it to the final round, comprising 4 teams, and ended up coming 3rd out of 75 teams!
+Luckily, we made it to the final round, comprising 4 teams, and ended up coming 3rd out of 75 teams! 
+
+Check our my blog post about the [Atlassian x Alliance Datathons! Lesson I've Learnt](https://shahid0120.github.io/datathons/Atlassian-Allianz-data-soc/) 
 
 ## The Team
 Had the pleasure to work along side my friends [Keith Tang](https://www.linkedin.com/in/tzekwongtang/), [Yil Seung Aaron Jeong](https://www.linkedin.com/in/yil-seung-aaron-jeong-260123198/) and 
