@@ -1,0 +1,1 @@
+The PowerPoint presentation covered the ethics issues in our actuarial course. Our case should also be relevant to it.
