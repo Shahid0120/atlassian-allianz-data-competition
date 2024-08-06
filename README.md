@@ -46,13 +46,12 @@ details, incident specifics, claim amounts, and fraud reports.
 
 ## Solution Overview
 
-1. Data Collection and Cleaning: We started by gathering the provided insurance data and performed initial cleaning to handle missing values and inconsistencies.
-2. Exploratory Data Analysis (EDA): We conducted a thorough EDA to understand the data distribution, identify patterns, and detect any anomalies.
-2. Feature Engineering: We created new features to improve the predictive power of our models. This included deriving features related to customer behavior and claim history.
-3. Model Selection and Training: We experimented with various machine learning models such as LightGBM, Random Forest, and Catboost. We used cross-validation to tune hyperparameters and select the best model.
-4. Evaluation and Validation: We validated our model using a separate validation set to ensure it generalized well to unseen data. We also used different metrics to evaluate performance.
-5. Presentation: Finally, we prepared and delivered a presentation to the data science teams at Allianz and Atlassian, showcasing our methodology, results, and the impact of our solution.
-
+1.Data Profiling and Data Cleaning: Identified data types, data ranges, and handled missing values and inconsistencies. Transformed categorical variables into dummy variables.
+2.Exploratory Data Analysis (EDA): Conducted a thorough EDA to understand the data distribution, identify patterns, detect any missing data through K-nearest neighbor, and address imbalanced labels using SMOTE-N.
+3.Feature Engineering: Simplified features with similar levels (e.g., combining education levels such as high school, college, master, PhD, university, and doctor into degree or non-degree). Additionally, removed highly collinear data types.
+4.Model Selection and Training: Experimented with various machine learning models such as LightGBM, Random Forest, and CatBoost. Used cross-validation to tune hyperparameters and select the best model, creating two sets of models: one with ethical considerations and one without.
+5.Evaluation and Validation: Validated the model using a separate validation set to ensure it generalized well to unseen data. Evaluated performance using different metrics, including R².
+6. Presentation: Prepared and delivered a presentation to the data science teams at Allianz and Atlassian, showcasing our methodology, results, and the impact of our solution. Addressed ethical concerns, ranked feature importance, and strategized to reduce business funds by dividing solutions based on fraud amounts into two categories: above 20k and below 20k. We recommended focusing on investigating insurance claims over 20k to maximize fraud detection, although this may be challenging in reality. This would be implemented via a pipeline where the model is optimized with new data, reducing the potential fraudulent market.
 
 ## Few more Pictures!
 
