@@ -31,7 +31,6 @@ about insurance claims. The dataset includes various features such as customer d
 details, incident specifics, claim amounts, and fraud reports.
 
 ## Marking Rubric
-Comprised of,
 - *Data Analysis*: Examines the ability to explore and communicate key patterns, trends, and anomalies in the dataset. High-quality data visualization and clear interpretation of the data are crucial.
 - *Model Development / Solution development*: Assesses the technical proficiency and effectiveness of the proposed solution. A solution does not have to be a model: it can be a set of ideas on how to solve the given problem.
 - *Ethical Considerations* - Evaluates awareness and handling of ethical issues related to analysis and solutions. The goal is to create solutions that are not only effective but also ethically sound.
