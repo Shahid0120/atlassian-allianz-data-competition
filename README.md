@@ -44,7 +44,7 @@ details, incident specifics, claim amounts, and fraud reports.
 
 <img src="/workflow/datasoc-workflow.png" alt="Workflow diagram">
 
-## Project Overview 
+## Solution Overview
 
 1. Data Collection and Cleaning: We started by gathering the provided insurance data and performed initial cleaning to handle missing values and inconsistencies.
 2. Exploratory Data Analysis (EDA): We conducted a thorough EDA to understand the data distribution, identify patterns, and detect any anomalies.
