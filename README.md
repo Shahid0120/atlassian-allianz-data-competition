@@ -1,6 +1,6 @@
 # Atlassian Allianz Data Competition
 
-![Home Picture]('pictures/pic5')
+<img src="/pictures/pic2.JPEG" alt="Home Page Pictures">
 
 I've had the previliage to compete in the UNSW Atlassian Allianz Data Competition at the respect headquaters! This 3 day event in which my teams we to classify fradulent customer from insruacne data collected by Allianz Customers. 
 
