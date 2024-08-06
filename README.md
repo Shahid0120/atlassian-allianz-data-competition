@@ -12,17 +12,17 @@ Had the pleasure to work along side my friends [Keith Tang](https://www.linkedin
 
 ## Task Objectives and Overview
 
-<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px;">
-  <p>*Insurance company ABC has been experiencing a surge in fraudulent claims, resulting in significant
+*Insurance company ABC has been experiencing a surge in fraudulent claims, resulting in significant
 financial losses. To address this issue, they have approached you, a team of Data Scientists, to help
 identify key areas where fraudulent claims are most likely to occur and to develop a solution to
-mitigate these financial losses. </p>
-  <p>*  Additionally, it is crucial to consider the ethical implications of your data analysis methods. ABC wants
+mitigate these financial losses.
+
+Additionally, it is crucial to consider the ethical implications of your data analysis methods. ABC wants
 you to evaluate these ethical aspects and propose strategies to mitigate potential biases in your
-solution.  * </p>
-  <p>*You will be presenting your findings and proposed solution to ABC’s stakeholder, a semi-technical
-marketing manager.*</p>
-</div>
+solution.
+
+You will be presenting your findings and proposed solution to ABC’s stakeholder, a semi-technical
+marketing manager.*
 
 ## Dataset Overview 
 
